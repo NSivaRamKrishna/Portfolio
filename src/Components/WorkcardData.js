@@ -13,7 +13,7 @@ const ProjectCardData =[
         imgsrc: pimg,
         title: "Portfolio",
         text: "Welcome to my portfolio! I'm N Siva Rama Krishna, an ardent and committed professional with a robust background in Fullstack Development.",
-        view: "/",
+        view: "https://sivanekkalaudiportfolio.netlify.app/",
         source:'https://github.com/NSivaRamKrishna/Portfolio'
     }
     
