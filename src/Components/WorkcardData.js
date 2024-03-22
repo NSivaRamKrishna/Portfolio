@@ -1,5 +1,6 @@
 import img1 from  '../assets/img1.jpg';
-import pimg from '../assets/pimg.jpg'
+import pimg from '../assets/pimg.jpg';
+import TaskBoard from "../assets/TaskBoard.jpg"
 
 const ProjectCardData =[
     {
@@ -13,8 +14,15 @@ const ProjectCardData =[
         imgsrc: pimg,
         title: "Portfolio",
         text: "Welcome to my portfolio! I'm N Siva Rama Krishna, an ardent and committed professional with a robust background in Fullstack Development.",
-        view: "https://sivanekkalaudiportfolio.netlify.app/",
+        view: "https://portfolio-sivanekkalapudi.vercel.app/",
         source:'https://github.com/NSivaRamKrishna/Portfolio'
+    },
+    {
+        imgsrc: TaskBoard,
+        title: "TaskBoard",
+        text: "The Taskboard app I've built with React.js, Node.js, and PostgreSQL facilitates efficient task tracking and management, ensuring smooth project progress.",
+        view: "https://task-board-sivanekkalapudi.vercel.app/",
+        source:'https://github.com/NSivaRamKrishna/Task_board'
     }
     
 ]
