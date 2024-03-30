@@ -1,6 +1,7 @@
 import img1 from  '../assets/img1.jpg';
 import pimg from '../assets/pimg.jpg';
 import TaskBoard from "../assets/TaskBoard.jpg"
+import chatbot from '../assets/chatbot.jpg'
 
 const ProjectCardData =[
     {
@@ -23,6 +24,13 @@ const ProjectCardData =[
         text: "The Taskboard app I've built with React.js, Node.js, and PostgreSQL facilitates efficient task tracking and management, ensuring smooth project progress.",
         view: "https://task-board-sivanekkalapudi.vercel.app/",
         source:'https://github.com/NSivaRamKrishna/Task_board'
+    },
+    {
+        imgsrc: chatbot,
+        title: "Chatbot",
+        text: "In this project, I developed a chatbot integrated with the Gemini API, utilizing React JS for the frontend interface",
+        view: "https://chatbot-siva-nekkalapudi.vercel.app/",
+        source:'https://github.com/NSivaRamKrishna/Chatbot'
     }
     
 ]
